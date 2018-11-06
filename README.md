@@ -1,3 +1,5 @@
+*Author: takayuki kaisen*  
+
 ## Application
 
 1. **Image Sharing App**  
