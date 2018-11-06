@@ -48,4 +48,4 @@ TBA
     
 ## Others
 
-You might find other projects in [my LinkedIn page](https://jp.linkedin.com/in/takayuki-kaisen-9b4710105)  
+You might be able to find other projects in [my LinkedIn page](https://jp.linkedin.com/in/takayuki-kaisen-9b4710105)  
