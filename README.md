@@ -1,4 +1,4 @@
-# works
+# works by takayuki kaisen
 ## Application
 
 1. **Image Sharing App**  
@@ -22,10 +22,10 @@ R, tydyverse,ggplot2
 1. **Analysis of the Effect of Global Terrorism on Finance**  
 TBA
 
-2. **Development of GIS for visualization and predictor of crimes in Detroit**
+2. **Development of GIS for visualization and predictor of crimes in Detroit**  
 TBA
 
-3. **How can we increase revenue from Catch the Pink Flamingo? **
+3. **How can we increase revenue from Catch the Pink Flamingo?**  
 TBA
 
 
