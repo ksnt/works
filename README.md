@@ -13,7 +13,7 @@ R, tydyverse,ggplot2
 
 ## Analysis
 
-1.**TBA**
+1. **TBA**
 
 
 ## Presentation
