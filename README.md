@@ -1,4 +1,3 @@
-# works by takayuki kaisen
 ## Application
 
 1. **Image Sharing App**  
