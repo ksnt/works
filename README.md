@@ -9,7 +9,7 @@ To Be Deployed Soon
 1. **[Montecarlo Simulator](https://montecarlo-dash-app.herokuapp.com/)**  
 Python3, Dash, Heroku  
 Oct 2018  
-[Respository](https://github.com/ksnt/pycon_hiro_2018/tree/master/code/montecarlo)  
+[Repository](https://github.com/ksnt/pycon_hiro_2018/tree/master/code/montecarlo)  
 
 ## Library
 
@@ -35,7 +35,7 @@ TBA
 1. **Introduction to Data Science in Python （Visualization ver.）**  
     [Pycon mini Hiroshima 2018](https://hiroshima.pycon.jp/2018/)  
     Oct 6 2018  
-    [Respository](https://github.com/ksnt/pycon_hiro_2018)  
+    [Repository](https://github.com/ksnt/pycon_hiro_2018)  
     [Slide](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
     
 1. **Connection between aims of ICT use and social participation - An empirical approach from the social capital perspective**  
