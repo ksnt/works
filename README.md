@@ -14,7 +14,7 @@ Oct 2018
 ## Library
 
 1. **GeoSpatial Earth Data analysis in R (gsedr) library**  
-R, tydyverse,ggplot2  
+R, tydyverse,leaflet,ggplot2,Travis CI    
 2017  
 [Repository](https://github.com/ksnt/gsedr)  
 
