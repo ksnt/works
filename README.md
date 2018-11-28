@@ -4,13 +4,15 @@
 
 1. **Image Sharing App**  
 Meteor.js, HTML, CSS  
+Nov 2018  
 [Portofolio](https://drive.google.com/open?id=1AJRBfhP7pum2gIy194nPfGPxtdYR8gPe)  
 To Be Deployed Soon  
 
-1. **[Montecarlo Simulator](https://montecarlo-dash-app.herokuapp.com/)**  
+1. **Montecarlo Simulator**  
 Python3, Dash, Heroku  
 Oct 2018  
 [Repository](https://github.com/ksnt/pycon_hiro_2018/tree/master/code/montecarlo)  
+[Deployed Application](https://montecarlo-dash-app.herokuapp.com/)
 
 ## Library
 
@@ -22,12 +24,15 @@ R, tydyverse,leaflet,ggplot2,Travis CI
 ## Data Analysis
 
 1. **Analysis of the Effect of Global Terrorism on Finance**  
+2017  
 TBA
 
 2. **Development of GIS for visualization and predictor of crimes in Detroit**  
+2018  
 TBA
 
 3. **How can we increase revenue from Catch the Pink Flamingo?**  
+2016  
 TBA
 
 
