@@ -1,6 +1,7 @@
 *Author: takayuki kaisen*  
 GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)  
 HP: [https://ksnt.github.io/](https://ksnt.github.io/)  
+Blog (English, Tech): [https://medium.com/@ksnt](https://medium.com/@ksnt)  
 
 ## Application
 
