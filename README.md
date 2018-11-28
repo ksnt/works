@@ -24,7 +24,7 @@ R, tydyverse,leaflet,ggplot2,Travis CI
 ## Data Analysis
 
 1. **Data Science for Good: Center for Policing Equity**  
-2018
+2018  
 Work in Progress  
 
 1. **Development of GIS for visualization and predictor of crimes in Detroit**  
