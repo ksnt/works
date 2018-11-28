@@ -23,15 +23,19 @@ R, tydyverse,leaflet,ggplot2,Travis CI
 
 ## Data Analysis
 
+1. **Data Science for Good: Center for Policing Equity**  
+2018
+Work in Progress  
+
+1. **Development of GIS for visualization and predictor of crimes in Detroit**  
+2018  
+TBA  
+
 1. **Analysis of the Effect of Global Terrorism on Finance**  
 2017  
 TBA
 
-2. **Development of GIS for visualization and predictor of crimes in Detroit**  
-2018  
-TBA
-
-3. **How can we increase revenue from Catch the Pink Flamingo?**  
+1. **How can we increase revenue from Catch the Pink Flamingo?**  
 2016  
 TBA
 
