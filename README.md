@@ -1,4 +1,6 @@
 *Author: takayuki kaisen*  
+GitHub: https://github.com/ksnt/  
+HP: https://ksnt.github.io/  
 
 ## Application
 
@@ -37,7 +39,7 @@ TBA
 
 1. **How can we increase revenue from Catch the Pink Flamingo?**  
 2016  
-TBA
+[Part of Final Achievement](https://drive.google.com/open?id=0Bwpo8iEJDg72NWl6THd4S0EyQ1U)
 
 
 ## Presentation
