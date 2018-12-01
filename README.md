@@ -9,7 +9,7 @@ Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/
 Meteor.js, HTML, CSS  
 Nov 2018  
 [Portofolio](https://drive.google.com/open?id=1AJRBfhP7pum2gIy194nPfGPxtdYR8gPe)  
-To Be Deployed Soon  
+[Demo VIdeo](https://drive.google.com/open?id=1iHgahPPYyzlPo3JBIH6dktfYa9I29Dp6)  
 
 1. **Montecarlo Simulator**  
 Python3, Dash, Heroku  
