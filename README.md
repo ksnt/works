@@ -31,9 +31,9 @@ Python3, Pandas, Geopandas, Plotly
 Dec 2018  
 [Kernel](https://www.kaggle.com/ksn0215/measurement-of-justice-in-boston)  
 
-1. **Development of GIS for visualization and predictor of crimes in Detroit**  
+1. **Development of GIS for visualization and predictor of blight in Detroit**  
 2018  
-TBA  
+[Repository](https://github.com/ksnt/Predictor-of-blights-in-Detroit)  
 
 1. **Analysis of the Effect of Global Terrorism on Finance**  
 2017  
