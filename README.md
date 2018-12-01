@@ -27,6 +27,7 @@ R, tydyverse,leaflet,ggplot2,Travis CI
 ## Data Analysis
 
 1. **Data Science for Good: Center for Policing Equity**  
+Python3, Pandas, Plotly  
 Dec 2018  
 [Kernel](https://www.kaggle.com/ksn0215/measurement-of-justice-in-boston)  
 
