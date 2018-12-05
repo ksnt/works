@@ -50,7 +50,7 @@ TBA
     [Pycon mini Hiroshima 2018](https://hiroshima.pycon.jp/2018/)  
     Oct 6 2018  
     [Repository](https://github.com/ksnt/pycon_hiro_2018)  
-    [Slide](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
+    [Slides](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
     
 1. **Connection Between Aims of ICT Use and Social Participation - An Empirical Approach from The Social Capital Perspective**  
    R study meeting for sociology at Tokyo Metropolitan University  
