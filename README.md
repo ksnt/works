@@ -35,9 +35,9 @@ Dec 2018
 2018  
 [Repository](https://github.com/ksnt/Predictor-of-blights-in-Detroit)  
 
-1. **Analysis of the Effect of Global Terrorism on Finance**  
+1. **Analysis of the Effect of Global Terrorism on Finance (Prototype)**  
 2017  
-TBA
+[Repository](https://github.com/ksnt/Global-Terrorism-Data-Analysis)  
 
 1. **How can we increase revenue from Catch the Pink Flamingo?**  
 2016  
