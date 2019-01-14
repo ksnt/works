@@ -8,6 +8,7 @@ Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/
 1. **Global Terrorism Data Analysis**  
 (Note) If I could, I would like to deploy somewhere  
 Python3, Plotly Dash  
+Jan 2019  
 [Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
 
 2. **Image Sharing App**  
