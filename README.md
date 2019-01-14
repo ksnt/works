@@ -11,7 +11,7 @@ Python3, Plotly Dash
 Jan 2019  
 [Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
 
-2. **Image Sharing App**  
+1. **Image Sharing App**  
 (Note) If I could, I would like to deploy somewhere  
 Meteor.js, HTML, CSS  
 Nov 2018  
@@ -19,7 +19,7 @@ Nov 2018
 [Demo VIdeo](https://drive.google.com/open?id=1iHgahPPYyzlPo3JBIH6dktfYa9I29Dp6)  
 [Repository](https://github.com/ksnt/image_sharing_app)  
 
-3. **Montecarlo Simulator**  
+1. **Montecarlo Simulator**  
 Python3, Dash, Heroku  
 Oct 2018  
 [Repository](https://github.com/ksnt/pycon_hiro_2018/tree/master/code/montecarlo)  
