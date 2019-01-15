@@ -9,7 +9,7 @@ Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/
 (Note) If I could, I would like to deploy somewhere  
 Python3, Plotly Dash  
 Jan 2019  
-[Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
+[Demo Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
 
 1. **Image Sharing App**  
 (Note) If I could, I would like to deploy somewhere  
