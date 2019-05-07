@@ -4,6 +4,7 @@ GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)
 HP: [http://ksnt.github.io/](http://ksnt.github.io/)  
 Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/@ksnt)  
 SlideShare: [https://www.slideshare.net/ksnt](https://www.slideshare.net/ksnt)  
+LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/)
 
 ## Application
 
