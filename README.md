@@ -1,4 +1,5 @@
 *Author: takayuki kaisen*  
+*contact: ksn0215(at)gmail.com*
 
 GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)  
 HP: [http://ksnt.github.io/](http://ksnt.github.io/)  
