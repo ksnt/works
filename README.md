@@ -9,10 +9,10 @@ LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://git
 ## Application
 
 1. **Global Terrorism Data Analysis**  
-(Note) If I could, I would like to deploy somewhere  
-Python3, Plotly Dash  
+Python3, Plotly Dash, Google App Engine  
 Jan 2019  
 [Demo Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
+[Deployed Application](https://global-terrorism-analysis-1.appspot.com/)  
 
 1. **Image Sharing App**  
 (Note) If I could, I would like to deploy somewhere  
