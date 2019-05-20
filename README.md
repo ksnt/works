@@ -13,7 +13,7 @@ LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://git
 Python3, Plotly Dash, Google App Engine  
 Jan 2019  
 [Demo Video](https://drive.google.com/open?id=1428V6qrFP-JvWYHYe7kc6V54apw0Yvde)  
-[Deployed Application](https://global-terrorism-analysis-1.appspot.com/) ※This might be stopped to save cost!  
+[Deployed Application](https://global-terrorism-analysis-1.appspot.com/) ※This app might be disabled to save cost!  
 
 1. **Image Sharing App**  
 (Note) If I could, I would like to deploy somewhere  
