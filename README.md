@@ -5,7 +5,8 @@ GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)
 HP: [http://ksnt.github.io/](http://ksnt.github.io/)  
 Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/@ksnt)  
 SlideShare: [https://www.slideshare.net/ksnt](https://www.slideshare.net/ksnt)  
-LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://github.com/ksnt/leet](https://github.com/ksnt/leet)
+LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://github.com/ksnt/leet](https://github.com/ksnt/leet)  
+Qiita (Japanese, Tech): [https://qiita.com/ksnt](https://qiita.com/ksnt)  
 
 ## Application
 
@@ -72,6 +73,11 @@ Dec 2018
 
 1. **Translation of Dash framework English tutorial into Japanese**  
     [Repository](https://github.com/ksnt/Dash_Translation_into_Japanese)
+    
+## MISC
+
+1. **Code Snippets of programs on ML**  
+    [Repository](https://github.com/ksnt/ML_tips)  
     
 ## Others
 
