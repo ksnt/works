@@ -61,6 +61,12 @@ Dec 2018
 
 ## Presentation
 
+1. **Introduction to Algorave with Python** (日本語: Pythonでアルゴレイヴの世界に足を踏み入れる)  
+    [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
+    Oct 12 2019  
+    [Repository](https://github.com/ksnt/pycon_hiro_2019)  
+    [Slides](https://www.slideshare.net/ksnt/python-181761996)
+
 1. **Introduction to Data Science in Python （Visualization ver.）**  
     [Pycon mini Hiroshima 2018](https://hiroshima.pycon.jp/2018/)  
     Oct 6 2018  
