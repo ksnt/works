@@ -84,6 +84,12 @@ Dec 2018
     
 ## MISC
 
+1. **Achievement in a Hackathon**  
+    [TBA]()
+
+1. **Achievement in Hiroshima Engineers Hackathon Vol.1 as Team D**  
+    [Repository](https://github.com/ksnt/HiroshimaEngineersHackathon)  
+
 1. **Code Snippets of programs on ML**  
     [Repository](https://github.com/ksnt/ML_tips)  
     
