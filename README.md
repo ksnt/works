@@ -59,9 +59,19 @@ Dec 2018
 [Part of Final Achievement](https://drive.google.com/open?id=0Bwpo8iEJDg72NWl6THd4S0EyQ1U)
 
 
-## Presentation
+## Presentations
 
-1. **Introduction to Algorave with Python** (日本語: Pythonでアルゴレイヴの世界に足を踏み入れる)  
+-- scheduled
+
+1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to Start and Keep Going Local Python Community in Hiroshima)  
+    Remark) I am a co-speaker.  
+    [PyCon JP 2020](https://pycon.jp/2020/)  
+    Aug 29 2020  
+    Slides: TBA  
+    
+--  
+
+1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (英語: Introduction to Algorave with Python)  
     [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
     Oct 12 2019  
     [Repository](https://github.com/ksnt/pycon_hiro_2019)  
