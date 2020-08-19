@@ -87,7 +87,7 @@ Dec 2018
    R study meeting for sociology at Tokyo Metropolitan University  
    Oct 7 2012
    
-## Lectures, Tutorials
+## Lectures & Tutorials
 
 -- scheduled
 
