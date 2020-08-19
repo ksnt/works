@@ -91,9 +91,9 @@ Dec 2018
 
 -- scheduled
 
-1. **オープンデータを使って、Pythonでデータ分析** (English: Data Analysis with Python using Open Data)
+1. **オープンデータを使って、Pythonでデータ分析** (English: Data Analysis with Python using Open Data)  
     (Remark) I am one of some lecturers.  
-    [PyCon JP 2020](https://pycon.jp/2020/) 
+    [PyCon JP 2020](https://pycon.jp/2020/)  
     Aug 30 2020  
     Repository: TBA  
     Slides: TBA (Probably Jupyter notebook)  
