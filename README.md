@@ -63,7 +63,7 @@ Dec 2018
 
 -- scheduled
 
-1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to Start and Keep Going Local Python Community in Hiroshima)  
+1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to start and keep going local Python community in Hiroshima)  
     Remark) I am a co-speaker.  
     [PyCon JP 2020](https://pycon.jp/2020/)  
     Aug 29 2020  
@@ -86,15 +86,29 @@ Dec 2018
 1. **Connection Between Aims of ICT Use and Social Participation - An Empirical Approach from The Social Capital Perspective**  
    R study meeting for sociology at Tokyo Metropolitan University  
    Oct 7 2012
+   
+## Lectures, Tutorials
+
+-- scheduled
+
+1. **オープンデータを使って、Pythonでデータ分析** (English: Data Analysis with Python using Open Data)
+    (Remark) I am one of some lecturers.  
+    [PyCon JP 2020](https://pycon.jp/2020/) 
+    Aug 30 2020  
+    Repository: TBA  
+    Slides: TBA (Probably Jupyter notebook)  
+
+--
 
 ## Translation
 
 1. **Translation of Dash framework English tutorial into Japanese**  
     [Repository](https://github.com/ksnt/Dash_Translation_into_Japanese)
     
+    
 ## MISC
 
-1. **Achievement in a Data-Hackathon as a Team (I worked as a engineer.)**  
+1. **Achievement in a Data-Hackathon as a team (I worked as an engineer.)**  
     [Slides](https://drive.google.com/open?id=1FHwwiOcEhlv2Q26i9FKVA7_LKXIyOrza)  
     [QGIS file](https://drive.google.com/open?id=1v_KcsuyF6GhPItTQqCxsT257hubeS3nl)  
     [XD file](https://drive.google.com/open?id=14LcLdkLEb8WxWM_9_aZEsL3NLBhTAcHr)  
