@@ -71,7 +71,7 @@ Dec 2018
     
 --  
 
-1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (英語: Introduction to Algorave with Python)  
+1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (English: Introduction to Algorave with Python)  
     [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
     Oct 12 2019  
     [Repository](https://github.com/ksnt/pycon_hiro_2019)  
