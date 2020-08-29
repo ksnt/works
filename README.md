@@ -89,7 +89,7 @@ Dec 2018
 
 1. **オープンデータを使って、Pythonでデータ分析** (English: Data Analysis with Python using Open Data)  
     (Remark) I am one of a few lecturers.  
-    [PyCon JP 2020](https://pycon.jp/2020/)  
+    [PyCon JP 2020](https://pycon.jp/2020/tutorial/#event-two)  
     Aug 30 2020  
     [Repository](https://github.com/hannari-python/tutorial)  
     
