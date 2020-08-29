@@ -61,15 +61,11 @@ Dec 2018
 
 ## Presentations
 
--- scheduled
-
 1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to start and keep going local Python community in Hiroshima)  
     Remark) I am a co-speaker.  
     [PyCon JP 2020](https://pycon.jp/2020/)  
     Aug 29 2020  
-    Slides: TBA  
-    
---  
+    [Slides](https://docs.google.com/presentation/d/1yJHBZkAM46kJYUz-XkVxMwd7YqGvwAEr574EqDfBe2g/edit#slide=id.p)  
 
 1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (English: Introduction to Algorave with Python)  
     [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
