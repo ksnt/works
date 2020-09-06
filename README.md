@@ -11,6 +11,11 @@ Qiita (Japanese, Tech): [https://qiita.com/ksnt](https://qiita.com/ksnt)
 
 ## Application
 
+1. **Visualization of land assessments and crime rate in Osaka**  
+Pythoun3, pydeck, Streamlit, Google App Engine  
+Aug 2020
+TBA  
+
 1. **Global Terrorism Data Analysis**  
 Python3, Plotly Dash, Google App Engine  
 Jan 2019  
@@ -86,7 +91,7 @@ Dec 2018
 ## Lectures & Tutorials
 
 1. **オープンデータを使って、Pythonでデータ分析** (English: Data Analysis with Python using Open Data)  
-    (Remark) I am one of a few lecturers.  
+    (Remark) I am one of five lecturers.  
     [PyCon JP 2020](https://pycon.jp/2020/tutorial/#event-two)  
     Aug 30 2020  
     [Repository](https://github.com/hannari-python/tutorial)  
@@ -98,6 +103,11 @@ Dec 2018
     [Repository](https://github.com/ksnt/Dash_Translation_into_Japanese)
     
     
+## Peer review of books
+
+1. **Python Data Visualization (in Web+DB Press vol.118 2020)**
+    
+
 ## MISC
 
 1. **Achievement in a Data-Hackathon as a team (I worked as an engineer.)**  
