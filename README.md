@@ -12,8 +12,8 @@ Qiita (Japanese, Tech): [https://qiita.com/ksnt](https://qiita.com/ksnt)
 ## Application
 
 1. **Visualization of land assessments and crime rate in Osaka**  
-Pythoun3, pydeck, Streamlit, Google App Engine  
-Aug 2020
+Python3, pydeck, Streamlit, Google App Engine  
+Aug 2020  
 TBA  
 
 1. **Global Terrorism Data Analysis**  
@@ -71,6 +71,7 @@ Dec 2018
     [PyCon JP 2020](https://pycon.jp/2020/)  
     Aug 29 2020  
     [Slides](https://docs.google.com/presentation/d/1yJHBZkAM46kJYUz-XkVxMwd7YqGvwAEr574EqDfBe2g/edit#slide=id.p)  
+    [Movie](https://www.youtube.com/watch?v=2_GGPInc0sQ&pp=QAA%3D)  
 
 1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (English: Introduction to Algorave with Python)  
     [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
