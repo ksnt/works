@@ -66,6 +66,11 @@ Dec 2018
 
 ## Presentations
 
+1. **Pythonで挑む計算社会科学** (English: Trying to research on Computational Social Science)  
+    [Pycon mini Hiroshima 2020](https://hiroshima.pycon.jp/2020/)  
+    Oct 10 2020  
+    [Slides](https://speakerdeck.com/ksnt/pythondetiao-muji-suan-she-hui-ke-xue)  
+
 1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to start and keep going local Python community in Hiroshima)  
     Remark) I am a co-speaker.  
     [PyCon JP 2020](https://pycon.jp/2020/)  
