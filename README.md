@@ -66,6 +66,10 @@ Dec 2018
 
 ## Presentations
 
+1. **Pythonの広がりとこれからのPython**  
+    [令和２年度実践的放射線治療人材育成セミナーPython講習会・初級編](https://hiroshima-rt.com/wp/wp-content/uploads/2020/12/90c758b7143637b961befc10141042d4.pdf)  
+    Feb 14 2021  
+
 1. **Pythonで挑む計算社会科学** (English: Trying to research on Computational Social Science)  
     [Pycon mini Hiroshima 2020](https://hiroshima.pycon.jp/2020/)  
     Oct 10 2020  
