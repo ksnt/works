@@ -4,6 +4,7 @@
 GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)  
 HP: [http://ksnt.github.io/](http://ksnt.github.io/)  
 Blog (English, {Tech, Sci, Biz}): [https://medium.com/@ksnt](https://medium.com/@ksnt)  
+Blog (Japanese): [https://ksnt.hatenablog.com/](https://ksnt.hatenablog.com/)  
 SlideShare: [https://www.slideshare.net/ksnt](https://www.slideshare.net/ksnt)  
 Speaker Deck: [https://speakerdeck.com/ksnt](https://speakerdeck.com/ksnt)  
 LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://github.com/ksnt/leet](https://github.com/ksnt/leet)  
