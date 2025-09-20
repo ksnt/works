@@ -1,4 +1,6 @@
-*Author: takayuki kaisen*  
+廻船のプロフィール  
+
+*Author: takayuki kaisen*   → in Japanese *廻船孝行*  
 *contact: ksn0215(at)gmail.com*
 
 GitHub: [https://github.com/ksnt/](https://github.com/ksnt/)  
@@ -9,13 +11,74 @@ SlideShare: [https://www.slideshare.net/ksnt](https://www.slideshare.net/ksnt)
 Speaker Deck: [https://speakerdeck.com/ksnt](https://speakerdeck.com/ksnt)  
 LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://github.com/ksnt/leet](https://github.com/ksnt/leet)  
 Qiita (Japanese, Tech): [https://qiita.com/ksnt](https://qiita.com/ksnt)  
+Podcast: [https://listen.style/p/hannariprog](https://listen.style/p/hannariprog)  
+Study Group: [https://hannari-python.connpass.com/](https://hannari-python.connpass.com/)  
+
+## As an Engineer(Data Analytics Specialist)
+
+2025 July 1 - Now,  Zeal,  Group Manager (Technical Consulting)  
+2025 Apr 1 - Now,  Zeal,  Senior Manager (Technical Consulting)   
+2023 Oct 1 - 2025 Feb 13,  Avanade, Consultant (Advanced Analytics)  
+2022 May 1 - 2023 Feb 28,   Fracta,  Senior Data Analyst  
+2021 Mar 1 - 2022 Apr 30,  Fracta,  Data Analyst  
+
+## Publications  
+
+1. **光をつかむとき**  
+   Jun 1, 2023  
+   世田谷文学館  
+   [PDF](https://www.setabun.or.jp/newsletter/pdf/vol_063.pdf)  
+
+
+## Presentations
+
+1. **データ分析者にとってのDjango: StreamlitやDashとの比較**  
+   Sep 1, 2023  
+   DjangoCongress JP 2023
+
+1. **データ分析で切り拓け！ エンジニアとしてのデータ分析職キャリア戦略**  
+   Jun 25, 2022  
+   Open seminar Hiroshima 2022  
+   
+1. **Pythonの広がりとこれからのPython**  
+    [令和２年度実践的放射線治療人材育成セミナーPython講習会・初級編](https://hiroshima-rt.com/wp/wp-content/uploads/2020/12/90c758b7143637b961befc10141042d4.pdf)  
+    Feb 14 2021
+
+1. **Pythonで挑む計算社会科学** (English: Trying to research on Computational Social Science)  
+    [Pycon mini Hiroshima 2020](https://hiroshima.pycon.jp/2020/)  
+    Oct 10 2020  
+    [Slides](https://speakerdeck.com/ksnt/pythondetiao-muji-suan-she-hui-ke-xue)  
+
+1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to start and keep going local Python community in Hiroshima)  
+    Remark) I am a co-speaker.  
+    [PyCon JP 2020](https://pycon.jp/2020/)  
+    Aug 29 2020  
+    [Slides](https://docs.google.com/presentation/d/1yJHBZkAM46kJYUz-XkVxMwd7YqGvwAEr574EqDfBe2g/edit#slide=id.p)  
+    [Movie](https://www.youtube.com/watch?v=2_GGPInc0sQ&pp=QAA%3D)  
+
+1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (English: Introduction to Algorave with Python)  
+    [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
+    Oct 12 2019  
+    [Repository](https://github.com/ksnt/pycon_hiro_2019)  
+    [Slides](https://www.slideshare.net/ksnt/python-181761996)
+
+1. **Introduction to Data Science in Python （Visualization ver.）**  
+    [Pycon mini Hiroshima 2018](https://hiroshima.pycon.jp/2018/)  
+    Oct 6 2018  
+    [Repository](https://github.com/ksnt/pycon_hiro_2018)  
+    [Slides](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
+    
+1. **Connection Between Aims of ICT Use and Social Participation - An Empirical Approach from The Social Capital Perspective**  
+   R study meeting for sociology at Tokyo Metropolitan University  
+   Oct 7 2012
+
 
 ## Application
 
 1. **Visualization of land assessments and crime rate in Osaka**  
 Python3, pydeck, Streamlit, Google App Engine  
 Aug 2020  
-TBA  
+*Presented at PyCon JP 2020*  
 
 1. **Global Terrorism Data Analysis**  
 Python3, Plotly Dash, Google App Engine  
@@ -62,42 +125,7 @@ Dec 2018
 
 1. **How can we increase revenue from Catch the Pink Flamingo?**  
 2016  
-[Part of Final Achievement](https://drive.google.com/open?id=0Bwpo8iEJDg72NWl6THd4S0EyQ1U)
-
-
-## Presentations
-
-1. **Pythonの広がりとこれからのPython**  
-    [令和２年度実践的放射線治療人材育成セミナーPython講習会・初級編](https://hiroshima-rt.com/wp/wp-content/uploads/2020/12/90c758b7143637b961befc10141042d4.pdf)  
-    Feb 14 2021  
-
-1. **Pythonで挑む計算社会科学** (English: Trying to research on Computational Social Science)  
-    [Pycon mini Hiroshima 2020](https://hiroshima.pycon.jp/2020/)  
-    Oct 10 2020  
-    [Slides](https://speakerdeck.com/ksnt/pythondetiao-muji-suan-she-hui-ke-xue)  
-
-1. **広島における地域Pythonコミュニティの立ち上げ方と続け方** (English: How to start and keep going local Python community in Hiroshima)  
-    Remark) I am a co-speaker.  
-    [PyCon JP 2020](https://pycon.jp/2020/)  
-    Aug 29 2020  
-    [Slides](https://docs.google.com/presentation/d/1yJHBZkAM46kJYUz-XkVxMwd7YqGvwAEr574EqDfBe2g/edit#slide=id.p)  
-    [Movie](https://www.youtube.com/watch?v=2_GGPInc0sQ&pp=QAA%3D)  
-
-1. **Pythonでアルゴレイヴの世界に足を踏み入れる** (English: Introduction to Algorave with Python)  
-    [Pycon mini Hiroshima 2019](https://hiroshima.pycon.jp/2019/)  
-    Oct 12 2019  
-    [Repository](https://github.com/ksnt/pycon_hiro_2019)  
-    [Slides](https://www.slideshare.net/ksnt/python-181761996)
-
-1. **Introduction to Data Science in Python （Visualization ver.）**  
-    [Pycon mini Hiroshima 2018](https://hiroshima.pycon.jp/2018/)  
-    Oct 6 2018  
-    [Repository](https://github.com/ksnt/pycon_hiro_2018)  
-    [Slides](https://www.slideshare.net/ksnt/pyconmini-hiroshima-2018-118202503)  
-    
-1. **Connection Between Aims of ICT Use and Social Participation - An Empirical Approach from The Social Capital Perspective**  
-   R study meeting for sociology at Tokyo Metropolitan University  
-   Oct 7 2012
+[Part of Final Achievement](https://drive.google.com/open?id=0Bwpo8iEJDg72NWl6THd4S0EyQ1U)  
    
 ## Lectures & Tutorials
 
