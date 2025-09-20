@@ -11,7 +11,7 @@ SlideShare: [https://www.slideshare.net/ksnt](https://www.slideshare.net/ksnt)
 Speaker Deck: [https://speakerdeck.com/ksnt](https://speakerdeck.com/ksnt)  
 LeetCode: [https://leetcode.com/ksnt/](https://leetcode.com/ksnt/), [https://github.com/ksnt/leet](https://github.com/ksnt/leet)  
 Qiita (Japanese, Tech): [https://qiita.com/ksnt](https://qiita.com/ksnt)  
-Podcast: [https://listen.style/p/hannariprog](https://listen.style/p/hannariprog)  
+Podcast (with Hideyuki Ogawa and Kozo Nishida): [https://listen.style/p/hannariprog](https://listen.style/p/hannariprog)  
 Study Group: [https://hannari-python.connpass.com/](https://hannari-python.connpass.com/)  
 
 ## As an Engineer(Data Analytics Specialist)
