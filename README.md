@@ -75,6 +75,9 @@ Study Group: [https://hannari-python.connpass.com/](https://hannari-python.connp
 
 ## Application
 
+1. **Atomic Bomb Trees Map in Hiroshima** (This might be not working)  
+[https://hiroshima-atomic-bomb-trees-ehyvmcocra-as.a.run.app/](https://hiroshima-atomic-bomb-trees-ehyvmcocra-as.a.run.app/)  
+
 1. **Visualization of land assessments and crime rate in Osaka**  
 Python3, pydeck, Streamlit, Google App Engine  
 Aug 2020  
